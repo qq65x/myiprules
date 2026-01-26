@@ -3,9 +3,7 @@ name: Update Merged MRS
 on:
   schedule:
     - cron: '11 18 * * *'
-  
   workflow_dispatch:
-  
   push:
     branches:
       - main
