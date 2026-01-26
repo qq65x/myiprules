@@ -1,4 +1,4 @@
-Name: Update Merged MRS
+name: Update Merged MRS
 
 on:
   schedule:
